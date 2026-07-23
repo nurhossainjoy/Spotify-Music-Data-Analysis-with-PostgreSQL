@@ -1,5 +1,6 @@
 
 # 🎵 Spotify SQL Data Analysis: Exploring Music Trends and Business Insights Using PostgreSQL
+![Spotify_logo](https://github.com/nurhossainjoy/Spotify-Music-Data-Analysis-with-PostgreSQL/blob/main/Logo/Logo.png)
 
 ## 📌 Project Overview
 
