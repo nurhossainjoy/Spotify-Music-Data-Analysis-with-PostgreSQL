@@ -202,23 +202,6 @@ Spotify_SQL_Business_Questions_and_Solutions.sql
 
 to reproduce all analyses.
 
----
-
-# 📸 Project Preview
-
-### Database Schema
-
-<p align="center">
-<img src="Images/Database_Schema.png" width="900">
-</p>
-
-### ER Diagram
-
-<p align="center">
-<img src="Images/ER_Diagram.png" width="900">
-</p>
-
----
 
 # 🎯 Learning Outcomes
 
