@@ -20,25 +20,6 @@ The objective is to showcase practical SQL skills that are commonly required for
 
 ---
 
-## 📂 Project Structure
-
-```text
-Spotify-SQL-Data-Analysis/
-│
-├── Dataset/
-│   └── spotify.csv
-│
-├── SQL/
-│   └── Spotify_SQL_Business_Questions_and_Solutions.sql
-│
-├── Images/
-│   ├── Database_Schema.png
-│   └── ER_Diagram.png
-│
-├── README.md
-└── LICENSE
-```
-
 ---
 
 ## 🗂 Dataset Description
