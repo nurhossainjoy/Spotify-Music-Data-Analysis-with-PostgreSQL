@@ -1,10 +1,5 @@
-````markdown
-# 🎵 Spotify SQL Data Analysis: Exploring Music Trends and Business Insights Using PostgreSQL
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
-![SQL](https://img.shields.io/badge/SQL-Advanced-success)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+# 🎵 Spotify SQL Data Analysis: Exploring Music Trends and Business Insights Using PostgreSQL
 
 ## 📌 Project Overview
 
