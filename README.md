@@ -79,10 +79,7 @@ The dataset consists of a **single table (`spotify`)** containing multiple colum
 
 The schema helps developers and analysts understand the structure of the dataset before writing SQL queries.
 
-<p align="center">
-    <img src="Images/Database_Schema.png" width="900">
-</p>
-
+![](https://github.com/nurhossainjoy/Spotify-Music-Data-Analysis-with-PostgreSQL/blob/main/ERD%26DB_Schema/Spotify_database_schema_image.png)
 ---
 
 # 🔗 Entity Relationship (ER) Diagram
