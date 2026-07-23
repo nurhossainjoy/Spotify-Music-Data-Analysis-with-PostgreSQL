@@ -91,9 +91,7 @@ Although the dataset is stored as a single table, the ER Diagram provides a conc
 
 This visualization improves data understanding and documents the logical relationships within the dataset.
 
-<p align="center">
-    <img src="Images/ER_Diagram.png" width="900">
-</p>
+![](https://github.com/nurhossainjoy/Spotify-Music-Data-Analysis-with-PostgreSQL/blob/main/ERD%26DB_Schema/Spotify_ERD.png)
 
 ---
 
